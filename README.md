@@ -9,6 +9,7 @@ This repository contains two (2) files:
 ## Features
 
 * There are 11 features and the following table shows all data types of them.
+  
 | Feature Name                       | Data Type       | Representation Description                           |
 |------------------------------------|-----------------|-----------------------------------------------------|
 | Country Name                       | Object (String) | Name of countries                                  |
@@ -24,4 +25,6 @@ This repository contains two (2) files:
 | Negative Affect                    | Float (float64) | Measure of negative emotional experiences (Range: 0 to 1)|
 
 ## Install
+
+numpy matplotlib and seaborn
  
